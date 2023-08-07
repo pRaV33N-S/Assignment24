@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Employee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1</Id>
+  <FirstName>Siv</FirstName>
+  <LastName>Purush</LastName>
+  <Salary>30000</Salary>
+</Employee>
